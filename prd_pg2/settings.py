@@ -25,7 +25,7 @@ SECRET_KEY = 'itkpu_en_oa4txgr)l73515z*5vimo4^r+015t42&@k^#p@+74'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['prd-pg.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
